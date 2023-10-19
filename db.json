@@ -1,0 +1,26 @@
+{
+  "users": [
+   
+  ],
+  "products": [],
+  "category": [
+    {
+      "title": "man",
+      "id": 1
+    },
+    {
+      "title": "woman",
+      "id": 2
+    },
+    {
+      "title": "kid",
+      "id": 3
+    },
+    {
+      "title": "oversize",
+      "id": 4
+    }
+  ],
+  "basket":[],
+  "orders":[]
+}
